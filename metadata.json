@@ -1,0 +1,6 @@
+{
+  "name": "Headless CMS Admin",
+  "description": "WordPress-inspired CMS admin interface for managing Users, Content, Tags, Metadata, Relations, and User Progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

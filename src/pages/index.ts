@@ -1,0 +1,10 @@
+export { DashboardView as DashboardPage } from '../components/views/DashboardView';
+export { UsersManagerView as UsersPage } from '../components/views/UsersManagerView';
+export { TagsManagerView as TagsPage } from '../components/views/TagsManagerView';
+export { ContentManagerView as ContentPage } from '../components/views/ContentManagerView';
+export { MediaManagerView as MediaPage } from '../components/views/MediaManagerView';
+export { ContentMetaManagerView as ContentMetaPage } from '../components/views/ContentMetaManagerView';
+export { ContentTagManagerView as ContentTagPage } from '../components/views/ContentTagManagerView';
+export { UserProgressManagerView as UserProgressPage } from '../components/views/UserProgressManagerView';
+export { SchemaVisualizerView as SchemaPage } from '../components/views/SchemaVisualizerView';
+export { DesignSystemView as DesignSystemPage } from '../components/views/DesignSystemView';
